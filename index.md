@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my deck
 
-I'm glad you are here. I plan to talk about ...
+很高兴你可以来到这里
